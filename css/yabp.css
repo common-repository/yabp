@@ -1,0 +1,73 @@
+/*
+    Name: Yet Another bol.com Plugin
+    Version: 1.3.6
+    Author: Mitchel Troost    
+*/
+
+.yabp_item_wrapper, .yabp_deals_wrapper {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: block;
+    overflow: hidden;
+}
+.yabp_item_wrapper img, .yabp_deals_wrapper img { -moz-box-shadow: none;-webkit-box-shadow: none;box-shadow: none;-moz-border-radius: none;border-radius: none; }
+.yabp_item_img, .yabp_deals_img {
+    float: left;
+    max-width:30%;
+    height:auto;
+    display:block;
+}
+.yabp_item_info_left, .yabp_deals_info_left {
+    float: left;
+    height: auto;
+    overflow: hidden;
+    max-width:70%;
+}
+
+.yabp_item_img_imgontop, .yabp_deals_img_imgontop {
+    max-width:100% !important;
+    height:auto;
+    display:block;
+}
+.yabp_item_info_left_imgontop, .yabp_deals_info_left_imgontop {
+    height: auto;
+    overflow: hidden;
+    max-width:100% !important;
+}
+
+.yabp_item_rating, .yabp_deals_rating { margin-left: 20px; margin-top: 10px; display:inline-block; vertical-align:top; }
+.yabp_item_title, .yabp_deals_title { margin-left: 10px; margin-top: 5px; font-weight: bold; display:inline-block; vertical-align:top; }
+.yabp_item_subtitle { margin-left: 10px; display:inline-block; vertical-align:top; }
+.yabp_item_listprice, .yabp_deals_listprice { font-size: 15px; margin-left: 20px; margin-top: 15px; display:inline-block; vertical-align:top; text-decoration: line-through; }
+.yabp_item_price, .yabp_deals_price { font-size: 15px; margin-left: 20px; margin-top: 15px; display:inline-block; vertical-align:top; }
+.yabp_item_button, .yabp_deals_button { margin-left: 20px; margin-top: 15px; display:inline-block; vertical-align:top; }
+.yabp_item_textlink, .yabp_deals_textlink { margin-left: 20px; margin-top: 15px; display:inline-block; vertical-align:top; }
+.yabp_item_availability { margin-left: 20px; margin-top: 15px; display:inline-block; vertical-align:top; }
+.yabp_item_freeshipping, .yabp_deals_freeshipping { margin-left: 20px; margin-top: 15px; display:inline-block; vertical-align:top; }
+.yabp_deals_countdown { margin-left: 20px; margin-top: 15px; display:inline-block; vertical-align:top; }
+
+.yabp_item_rating_imgontop, .yabp_deals_rating_imgontop { margin-top: 10px; display:inline-block; vertical-align:top; }
+.yabp_item_title_imgontop, .yabp_deals_title_imgontop { margin-top: 15px; font-weight: bold; display:inline-block; vertical-align:top; }
+.yabp_item_subtitle_imgontop { margin-top: 5px; display:inline-block; vertical-align:top; }
+.yabp_item_listprice_imgontop, .yabp_deals_listprice_imgontop { font-size: 15px; margin-right: 20px; margin-top: 15px; display:inline-block; vertical-align:top; text-decoration: line-through; }
+.yabp_item_price_imgontop, .yabp_deals_price_imgontop { font-size: 15px; margin-top: 15px; display:inline-block; vertical-align:top; }
+.yabp_item_button_imgontop, .yabp_deals_button_imgontop { margin-top: 15px; display:inline-block; vertical-align:top; }
+.yabp_item_textlink_imgontop, .yabp_deals_textlink_imgontop { margin-top: 15px; display:inline-block; vertical-align:top; }
+.yabp_item_freeshipping_imgontop, .yabp_deals_freeshipping_imgontop { margin-top: 15px; display:inline-block; vertical-align:top; }
+.yabp_deals_countdown_imgontop { margin-top: 15px; display:inline-block; vertical-align:top; }
+
+@media only screen and (max-width: 479px){
+    .yabp_item_img, .yabp_deals_img { max-width:100% !important; }
+    .yabp_item_info_left, .yabp_deals_info_left { max-width:100% !important; }
+
+    .yabp_item_rating, .yabp_deals_rating { margin-left: 0; }
+    .yabp_item_title, .yabp_deals_title { margin-left: 0; margin-top: 15px; }
+    .yabp_item_subtitle { margin-left: 0; }
+    .yabp_item_listprice, .yabp_deals_listprice { margin-left: 0; margin-right: 20px; }
+    .yabp_item_price, .yabp_deals_price { margin-left: 0; }
+    .yabp_item_button, .yabp_deals_button { margin-left: 0; }
+    .yabp_item_textlink, .yabp_deals_textlink { margin-left: 0; }
+    .yabp_item_availability { margin-left: 0; }
+    .yabp_item_freeshipping, .yabp_deals_freeshipping { margin-left: 0; }
+    .yabp_deals_countdown { margin-left: 0; }    
+}

@@ -1,0 +1,1013 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yabp\n"
+"POT-Creation-Date: 2020-12-29 13:08+0100\n"
+"PO-Revision-Date: 2020-12-30 01:43+0100\n"
+"Language-Team: Mitchel Troost\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr;esc_html__;esc_html_e;_x;_n\n"
+"Last-Translator: \n"
+"Language: nl\n"
+"X-Poedit-SearchPath-0: yabp.php\n"
+
+#: yabp.php:88
+#, php-format
+msgid "YAbP %s"
+msgstr "YAbP %s"
+
+#: yabp.php:89
+#, php-format
+msgid "Product manager %s"
+msgstr "Productbeheer %s"
+
+#: yabp.php:92 yabp.php:95 yabp.php:462 yabp.php:1248 yabp.php:1295
+#: yabp.php:1432 yabp.php:1453
+msgid "Options"
+msgstr "Opties"
+
+#: yabp.php:99 yabp.php:1026
+msgid "Add product"
+msgstr "Product toevoegen"
+
+#: yabp.php:102 yabp.php:1183
+msgid "Product list"
+msgstr "Productlijst"
+
+#: yabp.php:105 yabp.php:1401
+msgid "Product manager"
+msgstr "Productbeheer"
+
+#: yabp.php:108 yabp.php:1497
+msgid "Shortcode generator"
+msgstr "Shortcode-generator"
+
+#: yabp.php:289
+msgid "Go to the first page"
+msgstr "Ga naar de eerste pagina"
+
+#: yabp.php:290
+msgid "Previous page"
+msgstr "Vorige pagina"
+
+#: yabp.php:290
+msgid "Previous"
+msgstr "Vorige"
+
+#: yabp.php:306
+msgid "Next page"
+msgstr "Volgende pagina"
+
+#: yabp.php:306
+msgid "Next"
+msgstr "Volgende"
+
+#: yabp.php:307
+msgid "Last page"
+msgstr "Laatste pagina"
+
+#: yabp.php:336
+msgid "Test email notification"
+msgstr "E-mail notificatie-test"
+
+#: yabp.php:337 yabp.php:349
+msgid "Dear admin"
+msgstr "Beste beheerder"
+
+#: yabp.php:337
+#, php-format
+msgid ""
+"This is a test email notification for the Yet Another bol.com Plugin of your "
+"website at %s. If you can read this, the test has succeeded, meaning you are "
+"able to receive future email notifications, if set up."
+msgstr ""
+"Dit is een e-mail notificatie-test voor de Yet Another bol.com Plugin van uw "
+"website op %s. Als u dit kunt lezen, dan is de test geslaagd, wat betekent "
+"dat u toekomstige e-mail notificaties kunt ontvangen, wanneer dit is "
+"ingesteld."
+
+#: yabp.php:337 yabp.php:349
+msgid "Kind regards"
+msgstr "Met vriendelijke groet"
+
+#: yabp.php:348
+msgid "Expired products notification"
+msgstr "Verlopen producten-notificatie"
+
+#: yabp.php:349
+#, php-format
+msgid ""
+"Please be informed that one or more products from the Yet Another bol.com "
+"Plugin of your website at %s have been expired. See the list below:"
+msgstr ""
+"Via deze weg willen we u graag melden dat één of meer producten van de Yet "
+"Another bol.com Plugin van uw website op %s is verlopen. Zie de lijst "
+"hieronder:"
+
+#: yabp.php:349
+#, php-format
+msgid "<a href=\"%s\">Click here</a> to replace the product(s)."
+msgstr "<a href=\"%s\">Klik hier</a> om het/de product(en) te vervangen."
+
+#: yabp.php:463
+msgid "Options successfully saved."
+msgstr "Opties succesvol opgeslagen."
+
+#: yabp.php:466
+msgid "Settings"
+msgstr "Instellingen"
+
+#: yabp.php:467
+msgid "bol.com Open API key (API Access Key)"
+msgstr "bol.com Open API-sleutel (API Access Key)"
+
+#: yabp.php:467
+msgid "Valid!"
+msgstr "Geldig!"
+
+#: yabp.php:467
+msgid "Invalid!"
+msgstr "Ongeldig!"
+
+#: yabp.php:467
+msgid "Get an Open API key"
+msgstr "Verkrijg een Open API-sleutel"
+
+#: yabp.php:468
+msgid "bol.com Partner Program siteid"
+msgstr "bol.com Partnerprogramma SiteId"
+
+#: yabp.php:468
+msgid "Retrieve your SiteId"
+msgstr "Haal uw SiteId op"
+
+#: yabp.php:469
+msgid "Number of products shown on the 'Add product' page"
+msgstr "Aantal producten getoond op de 'Product toevoegen'-pagina"
+
+#: yabp.php:470
+msgid "Number of products shown on the 'Product list' page"
+msgstr "Aantal producten getoond op de 'Productlijst'-pagina"
+
+#: yabp.php:471
+msgid "Text of the text link of the products"
+msgstr "Tekst van uw productlinks"
+
+#: yabp.php:472
+msgid "'Free shipping' text at the products"
+msgstr "'Gratis verzending'-tekst bij de producten"
+
+#: yabp.php:473
+msgid "Default product catalog:"
+msgstr "Standaard productcatalogus:"
+
+#: yabp.php:474
+msgid ""
+"Set the Dutch catalog as the default catalog when searching for new products"
+msgstr ""
+"Stel de Nederlandse catalogus in als de standaard catalogus voor het zoeken "
+"naar nieuwe producten"
+
+#: yabp.php:474 yabp.php:1161
+msgid "Dutch catalog"
+msgstr "Nederlandse catalogus"
+
+#: yabp.php:475
+msgid ""
+"Set the Belgium catalog as the default catalog when searching for new "
+"products"
+msgstr ""
+"Stel de Belgische catalogus in als de standaard catalogus voor het zoeken "
+"naar nieuwe producten"
+
+#: yabp.php:475 yabp.php:1162
+msgid "Belgium catalog"
+msgstr "Belgische catalogus"
+
+#: yabp.php:476
+msgid ""
+"Send an email notification to the admin's emailaddress when a product expires"
+msgstr ""
+"Verstuur een e-mail notificatie naar het e-mailadres van de beheerder "
+"wanneer een product verloopt"
+
+#: yabp.php:476
+msgid "Send an email notification when a product expires."
+msgstr "Verstuur een e-mail notificatie wanneer een product verloopt."
+
+#: yabp.php:476
+msgid ""
+"To ensure you are able to receive email notifications, you can test this "
+"function by clicking on this link. Check your spam folder if you did not "
+"receive any email."
+msgstr ""
+"Om er zeker van te zijn dat u instaat bent e-mail notificaties te ontvangen, "
+"kunt u deze functie testen door op deze link te klikken. Controleer uw "
+"spamfolder als u geen e-mails heeft ontvangen."
+
+#: yabp.php:476
+msgid "Click here to send a test email"
+msgstr "Klik hier om een test-e-mail te versturen"
+
+#: yabp.php:478
+msgid "Styling"
+msgstr "Uiterlijk"
+
+#: yabp.php:479
+msgid ""
+"The use of styling is optional. By default, the plugin uses the style from "
+"your current theme. When inserting font sizes and font colours below, you "
+"override the default style. The font size is the number in pixels, and the "
+"colours in hex code (eg. FF0000). You can pick hex codes by clicking on the "
+"input field. To delete a hex code, backspace it in its field. Don't forget "
+"to save!"
+msgstr ""
+"Het uiterlijk veranderen is optioneel. Standaard gebruikt de plugin "
+"stijlgegevens van uw huidige thema. Wanneer u hieronder lettergrootten en -"
+"kleuren invult, dan kunt u op deze manier de standaardstijl aanpassen. De "
+"lettergrootte vult u in als het aantal pixels, en de -kleuren vult u in als "
+"hexcode (bijvoorbeeld FF0000). U kunt gemakkelijk hexcodes kiezen door op "
+"het invoerveld te klikken. Om een hexcode te verwijderen, gebruikt u "
+"'backspace' in het veld. Vergeet niet op te slaan!"
+
+#: yabp.php:481
+msgid "Product title font size"
+msgstr "Producttitel lettergrootte"
+
+#: yabp.php:482
+msgid "Product title font colour"
+msgstr "Producttitel letterkleur"
+
+#: yabp.php:482 yabp.php:484 yabp.php:486 yabp.php:488 yabp.php:490
+#: yabp.php:492 yabp.php:494 yabp.php:496
+msgid "Close"
+msgstr "Sluit"
+
+#: yabp.php:483
+msgid "Product subtitle font size"
+msgstr "Productsubtitel lettergrootte"
+
+#: yabp.php:484
+msgid "Product subtitle font colour"
+msgstr "Productsubtitel letterkleur"
+
+#: yabp.php:485
+msgid "Product price font size"
+msgstr "Productprijs lettergrootte"
+
+#: yabp.php:486
+msgid "Product price font colour"
+msgstr "Productprijs letterkleur"
+
+#: yabp.php:487
+msgid "Product list price font size"
+msgstr "Oude productprijs lettergrootte"
+
+#: yabp.php:488
+msgid "Product list price font colour"
+msgstr "Oude productprijs letterkleur"
+
+#: yabp.php:489
+msgid "Product availability font size"
+msgstr "Productlevertijd lettergrootte"
+
+#: yabp.php:490
+msgid "Product availability font colour"
+msgstr "Productlevertijd letterkleur"
+
+#: yabp.php:491
+msgid "'Free shipping' text font size"
+msgstr "'Gratis verzending' lettergrootte"
+
+#: yabp.php:492
+msgid "'Free shipping' text font colour"
+msgstr "'Gratis verzending' letterkleur"
+
+#: yabp.php:493
+msgid "'Countdown' text font size"
+msgstr "'Countdown' lettergrootte"
+
+#: yabp.php:494
+msgid "'Countdown' text font colour"
+msgstr "'Countdown' letterkleur"
+
+#: yabp.php:495
+msgid "Product text link font size"
+msgstr "Productlink lettergrootte"
+
+#: yabp.php:496
+msgid "Product text link font colour"
+msgstr "Productlink letterkleur"
+
+#: yabp.php:500 yabp.php:1220 yabp.php:1230 yabp.php:1240
+msgid "Save"
+msgstr "Opslaan"
+
+#: yabp.php:506
+msgid "Message from the developer"
+msgstr "Bericht van de ontwikkelaar"
+
+#: yabp.php:508
+msgid ""
+"Thank you for using this plugin! To support the developer for future "
+"development of it, a donation of any amount is really appreciated. If at any "
+"moment a pro version of this plugin is released, all supporters will get "
+"access to that version!"
+msgstr ""
+"Bedankt voor het gebruiken van deze plugin! Om de verdere ontwikkeling van "
+"deze plugin te steunen, wordt elke donatie erg gewaardeerd. Mocht er in de "
+"toekomst een pro-versie van deze plugin worden uitgebracht, dan krijgen alle "
+"donateurs toegang tot deze versie!"
+
+#: yabp.php:516
+msgid ""
+"Take a look at the <a href=\"https://wordpress.org/plugins/yabp/\">Plugin "
+"page on WordPress.org</a> for a step-by-step installation description and "
+"the FAQ. You may also find more information on <a href=\"http://tromit.nl/"
+"diensten/wordpress-plugins/\">the homepage of the plugin</a>."
+msgstr ""
+"Neem een kijkje op <a href=\"http://tromit.nl/diensten/wordpress-plugins/"
+"\">de homepagina van deze plugin</a> voor meer informatie, waaronder het "
+"stappenplan 'Aan de slag', en de Veelgestelde vragen."
+
+#: yabp.php:517
+msgid ""
+"This is not an official plugin from bol.com, but it is safe to use as bol."
+"com's Open API v4 is being used. No personal data is saved or forwarded. The "
+"names and images in this plugin belong to their respective owners. By using "
+"this plugin, you agree to the following terms and conditions. The developer "
+"is not responsible for any errors or losses when using this plugin for "
+"earning money with the bol.com Partner Program. Your website has to comply "
+"with bol.com's terms and conditions at all times. You are responsible you "
+"use the correct Open API key and siteid with this plugin. At the moment, "
+"only the siteid cannot be checked automatically for its correctness."
+msgstr ""
+"Dit is geen officiële plugin van bol.com, maar het veilig te gebruiken "
+"doordat gebruik wordt gemaakt van bol.com's Open API v4. Persoonlijke "
+"gegevens worden niet opgeslagen of verstuurd. De namen en afbeeldingen in "
+"deze plugin behoren tot hun rechtmatige eigenaar. Door deze plugin te "
+"gebruiken, gaat u akkoord met de volgende voorwaarden. De ontwikkelaar is "
+"niet verantwoordelijk voor fouten of verliezen wanneer er geld wordt "
+"verdiend met het Partnerprogramma van bol.com. Uw website moet ten alle "
+"tijden voldoen aan de voorwaarden van bol.com. U bent er verantwoordelijk "
+"voor dat er gebruik wordt gemaakt van de juiste Open API key en siteid bij "
+"gebruik van deze plugin. Op dit moment kan alleen de siteid niet automatisch "
+"op correctheid worden gecontroleerd."
+
+#: yabp.php:701 yabp.php:1106
+#, php-format
+msgid "Score %1$.1f out of 5 stars."
+msgstr "Score %1$.1f van 5 sterren."
+
+#: yabp.php:864
+msgid "Not available"
+msgstr "Niet beschikbaar"
+
+#: yabp.php:923 yabp.php:935 yabp.php:1217
+msgid "hourly"
+msgstr "elk uur"
+
+#: yabp.php:925 yabp.php:937 yabp.php:1217
+msgid "twice a day"
+msgstr "tweemaal per dag"
+
+#: yabp.php:927 yabp.php:939 yabp.php:1217
+msgid "daily"
+msgstr "dagelijks"
+
+#: yabp.php:989 yabp.php:1003 yabp.php:1237
+msgid "View on"
+msgstr "Bekijk op"
+
+#: yabp.php:991 yabp.php:1005 yabp.php:1237
+msgid "View on (alt)"
+msgstr "Bekijk op (alt)"
+
+#: yabp.php:993 yabp.php:1007 yabp.php:1237
+msgid "Buy at"
+msgstr "Koop bij"
+
+#: yabp.php:995 yabp.php:1009 yabp.php:1237
+msgid "Buy at (alt)"
+msgstr "Koop bij (alt)"
+
+#: yabp.php:1029
+#, php-format
+msgid ""
+"Please enter both your valid bol.com Open API key and siteid at the <a href="
+"\"%s\">Options page</a> to continue."
+msgstr ""
+"Vul alstublieft uw geldige bol.com Open API-sleutel en SiteId in op <a href="
+"\"%s\">de 'Opties-pagina'</a> om verder te gaan."
+
+#: yabp.php:1043
+#, php-format
+msgid ""
+"Item successfully replaced. <a href=\"%1$s\">Click here</a> to view its "
+"settings."
+msgstr ""
+"Product succesvol vervangen. <a href=\"%1$s\">Klik hier</a> om de "
+"instellingen te bekijken."
+
+#: yabp.php:1045
+msgid ""
+"The selected product is already found in the database, or an error occured. "
+"If you did not select a product twice, please try again later."
+msgstr ""
+"Het geselecteerde product is reeds in de database aanwezig, of er is een "
+"fout opgetreden. Gelieve het later nogmaals te proberen als u geen dubbele "
+"producten probeerde toe te voegen."
+
+#: yabp.php:1060
+#, php-format
+msgid ""
+"%1$d product(s) successfully added. <a href=\"%2$s\">Click here</a> to "
+"retrieve the shortcodes."
+msgstr ""
+"%1$d product(en) succesvol toegevoegd. <a href=\"%2$s\">Klik hier</a> om de "
+"shortcodes op te halen."
+
+#: yabp.php:1061
+msgid ""
+"The selected products are already found in the database, or an error "
+"occured. If you did not select products twice, please try again later."
+msgstr ""
+"De geselecteerde producten zijn reeds in de database aanwezig, of er is een "
+"fout opgetreden. Gelieve het later nogmaals te proberen als u geen dubbele "
+"producten probeerde toe te voegen."
+
+#: yabp.php:1072 yabp.php:1264
+msgid " catalog"
+msgstr " catalogus"
+
+#: yabp.php:1082
+#, php-format
+msgid "No products found for search term '%s'. Please use another search term."
+msgstr ""
+"Geen producten gevonden met zoekterm '%s'. Gebruik alstublieft een andere "
+"term."
+
+#: yabp.php:1083
+#, php-format
+msgid ""
+"Displaying the first and only result for search term '%1$s' from the %2$s."
+msgstr ""
+"Het eerste en enige resultaat wordt weergegeven voor zoekterm '%1$s' uit de "
+"%2$s."
+
+#: yabp.php:1084
+#, php-format
+msgid ""
+"Displaying the first %1$d of total %2$d results for search term '%3$s' from "
+"the %4$s."
+msgstr ""
+"De eerste %1$d van totaal %2$d resultaten worden weergegeven voor zoekterm "
+"'%3$s' uit de %4$s."
+
+#: yabp.php:1110 yabp.php:1111
+msgid "product already in database"
+msgstr "product reeds in database"
+
+#: yabp.php:1110 yabp.php:1111 yabp.php:1265 yabp.php:1575
+msgid "Not rated yet"
+msgstr "Nog niet beoordeeld"
+
+#: yabp.php:1114
+#, php-format
+msgid ""
+"Your bol.com Open API key is invalid. Please enter the correct one at the <a "
+"href=\"%s\">Options page</a>."
+msgstr ""
+"Uw bol.com Open API-sleutel is ongeldig. Gelieve een geldige in te vullen op "
+"de <a href=\"%s\">'Opties'-pagina</a>."
+
+#: yabp.php:1115
+msgid ""
+"An error occured. At the moment, the Open API is not working. Please try "
+"again later."
+msgstr ""
+"Er is een fout opgetreden. Op dit moment werkt de Open API niet, gelieve het "
+"later opnieuw te proberen."
+
+#: yabp.php:1116
+msgid ""
+"The plugin cannot connect to the Open API at the moment. Please contact the "
+"developer of this plugin to fix this problem."
+msgstr ""
+"De plugin kan op dit moment niet met de Open API verbinden. Gelieve contact "
+"op te nemen met de ontwikkelaar om dit probleem op te lossen."
+
+#: yabp.php:1117
+msgid "No products can be found. Please use another search term."
+msgstr "Geen producten gevonden. Gelieve een andere zoekopdracht te gebruiken."
+
+#: yabp.php:1131
+#, php-format
+msgid ""
+"Selected item will be replaced by the product you select from the bol.com "
+"Catalog. <a href=\"%1$s\">Click here</a> to cancel this, and to go back to "
+"the item's settings."
+msgstr ""
+"Geselecteerd product zal worden vervangen door het product dat u selecteert "
+"uit de bol.com-Catalogus. <a href=\"%1$s\">Klik hier</a> om dit te "
+"annuleren, en om terug te gaan naar de productinstellingen."
+
+#: yabp.php:1131 yabp.php:1159
+#, php-format
+msgid ""
+"Item '%1$s' will be replaced by the product you select from the bol.com "
+"Catalog. <a href=\"%2$s\">Click here</a> to cancel this, and to go back to "
+"the item's settings."
+msgstr ""
+"Product '%1$s' zal worden vervangen door het product dat u selecteert uit de "
+"bol.com-Catalogus. <a href=\"%2$s\">Klik hier</a> om dit te annuleren, en om "
+"terug te gaan naar de productinstellingen."
+
+#: yabp.php:1139 yabp.php:1248 yabp.php:1295 yabp.php:1432 yabp.php:1453
+msgid "Thumbnail"
+msgstr "Afbeelding"
+
+#: yabp.php:1139 yabp.php:1248 yabp.php:1295 yabp.php:1432 yabp.php:1453
+msgid "Title"
+msgstr "Titel"
+
+#: yabp.php:1139 yabp.php:1248 yabp.php:1295
+msgid "Price"
+msgstr "Prijs"
+
+#: yabp.php:1139 yabp.php:1248 yabp.php:1295
+msgid "Rating"
+msgstr "Waardering"
+
+#: yabp.php:1145 yabp.php:1258 yabp.php:1259 yabp.php:1270 yabp.php:1444
+msgid "Replace"
+msgstr "Vervang"
+
+#: yabp.php:1145
+msgid "Add selected"
+msgstr "Voeg geselecteerde toe"
+
+#: yabp.php:1146
+msgid "Edit search terms"
+msgstr "Wijzig zoekterm"
+
+#: yabp.php:1158
+msgid "Enter a search term to continue."
+msgstr "Voer een zoekterm in om verder te gaan."
+
+#: yabp.php:1161
+msgid "Search for products in the Dutch catalog"
+msgstr "Zoek producten in de Nederlandse catalogus"
+
+#: yabp.php:1162
+msgid "Search for products in the Belgium catalog"
+msgstr "Zoek producten in de Belgische catalogus"
+
+#: yabp.php:1163
+msgid "Search terms"
+msgstr "Zoekterm"
+
+#: yabp.php:1165
+msgid "Search"
+msgstr "Zoek"
+
+#: yabp.php:1192 yabp.php:1411
+msgid "No products can be found."
+msgstr "Geen producten gevonden."
+
+#: yabp.php:1197 yabp.php:1416
+#, php-format
+msgid "Invalid page. <a href=\"%s\">Click here</a> to go back."
+msgstr "Ongeldige pagina. <a href=\"%s\">Klik hier</a> om terug te gaan."
+
+#: yabp.php:1208 yabp.php:1426
+msgid "Are you sure?"
+msgstr "Weet u het zeker?"
+
+#: yabp.php:1218 yabp.php:1228 yabp.php:1238
+msgid "Click to add"
+msgstr "Klik om toe te voegen"
+
+#: yabp.php:1219 yabp.php:1229 yabp.php:1239
+msgid "Choose value"
+msgstr "Kies waarde"
+
+#: yabp.php:1221 yabp.php:1231 yabp.php:1241
+msgid "Cancel"
+msgstr "Annuleer"
+
+#: yabp.php:1246
+msgid ""
+"You can add subids at your links by adding 'subid=\"your sub id\"' to the "
+"shortcodes. For example: [yabp 1 subid=\"homepage header\"]. You can edit "
+"the update interval, thumbnail size and button type by clicking on it's "
+"current value. Update interval 'daily' is recommended."
+msgstr ""
+"U kunt SubIds aan uw links toevoegen door 'subid=\"uw sub id\"' toe te "
+"voegen aan uw shortcodes. Bijvoorbeeld: [yabp 1 subid=\"beginpagina kop\"]. "
+"U kunt de bijwerkfrequentie, de afbeeldinggrootte en het knoptype wijzigen "
+"door op de huidige waarde te klikken. Bijwerkfrequentie 'dagelijks' wordt "
+"aanbevolen."
+
+#: yabp.php:1248 yabp.php:1295 yabp.php:1432 yabp.php:1453
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: yabp.php:1248 yabp.php:1295 yabp.php:1432 yabp.php:1453
+msgid ""
+"Paste shortcodes of products anywhere on your website to display these "
+"products with their own settings."
+msgstr ""
+"Plak 'shortcodes' van producten overal op uw website om deze producten te "
+"tonen met hun eigen instellingen."
+
+#: yabp.php:1248 yabp.php:1295 yabp.php:1432 yabp.php:1453
+msgid "Last update"
+msgstr "Laatste update"
+
+#: yabp.php:1258 yabp.php:1259
+msgid "Click 'Update now' to retrieve this products's data."
+msgstr "Klik op 'Nu bijwerken’ om productdata op te halen."
+
+#: yabp.php:1258 yabp.php:1259 yabp.php:1266
+msgid "Update now"
+msgstr "Nu bijwerken"
+
+#: yabp.php:1258 yabp.php:1259 yabp.php:1270 yabp.php:1444
+msgid "Replace this item with an item from the bol.com Catalog"
+msgstr "Vervang dit product door een product uit de bol.com-Catalogus"
+
+#: yabp.php:1258 yabp.php:1259 yabp.php:1271 yabp.php:1445
+msgid "Delete"
+msgstr "Verwijder"
+
+#: yabp.php:1262
+msgid "More options"
+msgstr "Meer opties"
+
+#: yabp.php:1264
+msgid "Click to retrieve this product's data from the Dutch catalog"
+msgstr "Klik om de productgegevens uit de Nederlandse catalogus op te halen"
+
+#: yabp.php:1264
+msgid "Click to retrieve this product's data from the Belgium catalog"
+msgstr "Klik om de productgegevens uit de Belgische catalogus op te halen"
+
+#: yabp.php:1266
+msgid "Update this item now"
+msgstr "Dit product nu bijwerken"
+
+#: yabp.php:1267
+msgid "Update interval"
+msgstr "Bijwerkfrequentie"
+
+#: yabp.php:1267 yabp.php:1268 yabp.php:1269
+msgid "Edit value"
+msgstr "Wijzig waarde"
+
+#: yabp.php:1268
+msgid "Thumbnail size"
+msgstr "Afbeeldinggrootte"
+
+#: yabp.php:1269
+msgid "Button type"
+msgstr "Knoptype"
+
+#: yabp.php:1271 yabp.php:1445
+msgid "Delete this item"
+msgstr "Verwijder dit product"
+
+#: yabp.php:1273
+msgid "Click to hide the thumbnail"
+msgstr "Klik om de afbeelding te verbergen"
+
+#: yabp.php:1273
+msgid "Hide thumbnail"
+msgstr "Verberg afbeelding"
+
+#: yabp.php:1273
+msgid "Click to show the thumbnail"
+msgstr "Klik om de afbeelding te tonen"
+
+#: yabp.php:1273
+msgid "Show thumbnail"
+msgstr "Afbeelding tonen"
+
+#: yabp.php:1274
+msgid "Click to hide the price"
+msgstr "Klik om de prijs te verbergen"
+
+#: yabp.php:1274
+msgid "Hide price"
+msgstr "Verberg prijs"
+
+#: yabp.php:1274
+msgid "Click to show the price"
+msgstr "Klik om de prijs te tonen"
+
+#: yabp.php:1274
+msgid "Show price"
+msgstr "Toon prijs"
+
+#: yabp.php:1275
+msgid "Click to hide the list price"
+msgstr "Klik om de oude prijs te verbergen"
+
+#: yabp.php:1275
+msgid "Hide list price"
+msgstr "Verberg oude prijs"
+
+#: yabp.php:1275
+msgid "Click to show the list price"
+msgstr "Klik om de oude prijs te tonen"
+
+#: yabp.php:1275
+msgid "Show list price"
+msgstr "Toon oude prijs"
+
+#: yabp.php:1276
+msgid "Click to hide the title"
+msgstr "Klik om de titel te verbergen"
+
+#: yabp.php:1276
+msgid "Hide title"
+msgstr "Verberg titel"
+
+#: yabp.php:1276
+msgid "Click to show the title"
+msgstr "Klik om de titel te tonen"
+
+#: yabp.php:1276
+msgid "Show title"
+msgstr "Toon titel"
+
+#: yabp.php:1277
+msgid "Click to hide the subtitle"
+msgstr "Klik om de subtitel te verbergen"
+
+#: yabp.php:1277
+msgid "Hide subtitle"
+msgstr "Verberg subtitel"
+
+#: yabp.php:1277
+msgid "Click to show the subtitle"
+msgstr "Klik om de subtitel te tonen"
+
+#: yabp.php:1277
+msgid "Show subtitle"
+msgstr "Toon subtitel"
+
+#: yabp.php:1278
+msgid "Click to hide the availability"
+msgstr "Klik om de leverdata te verbergen"
+
+#: yabp.php:1278
+msgid "Hide availability"
+msgstr "Verberg leverdata"
+
+#: yabp.php:1278
+msgid "Click to show the availability"
+msgstr "Klik om de leverdata te tonen"
+
+#: yabp.php:1278
+msgid "Show availability"
+msgstr "Toon leverdata"
+
+#: yabp.php:1279
+msgid "Click to hide the rating"
+msgstr "Klik om de waardering te verbergen"
+
+#: yabp.php:1279
+msgid "Hide rating"
+msgstr "Verberg waardering"
+
+#: yabp.php:1279
+msgid "Click to show the rating"
+msgstr "Klik om de waardering te tonen"
+
+#: yabp.php:1279
+msgid "Show rating"
+msgstr "Toon waardering"
+
+#: yabp.php:1280
+msgid "Click to hide the button"
+msgstr "Klik om de knop te verbergen"
+
+#: yabp.php:1280
+msgid "Hide button"
+msgstr "Verberg knop"
+
+#: yabp.php:1280
+msgid "Click to show the button"
+msgstr "Klik om de knop te tonen"
+
+#: yabp.php:1280
+msgid "Show button"
+msgstr "Toon knop"
+
+#: yabp.php:1281
+msgid "Click to do not put product directly in cart"
+msgstr "Klik om product niet direct in de winkelwagen te plaatsen"
+
+#: yabp.php:1281
+msgid "Do not put in cart"
+msgstr "Plaats niet in winkelwagen"
+
+#: yabp.php:1281
+msgid "Click to put product directly in cart"
+msgstr "Klik om product direct in de winkelwagen te plaatsen"
+
+#: yabp.php:1281
+msgid "Do put in cart"
+msgstr "Plaats in winkelwagen"
+
+#: yabp.php:1282
+msgid "Click to do not record impressions"
+msgstr "Klik om geen impressies te rapporteren"
+
+#: yabp.php:1282
+msgid "Do not record impressions"
+msgstr "Rapporteer geen impressies"
+
+#: yabp.php:1282
+msgid "Click to record impressions"
+msgstr "Klik om impressies te rapporteren"
+
+#: yabp.php:1282
+msgid "Do record impressions"
+msgstr "Rapporteer impressies"
+
+#: yabp.php:1283
+msgid "Click to open item in the current tab"
+msgstr "Klik om product in het huidige tabblad te openen"
+
+#: yabp.php:1283
+msgid "Open item in current tab"
+msgstr "Open product in huidig tabblad"
+
+#: yabp.php:1283
+msgid "Click to open item in a new tab"
+msgstr "Klik om product in een nieuw tabblad te openen"
+
+#: yabp.php:1283
+msgid "Open item in new tab"
+msgstr "Open product in nieuw tabblad"
+
+#: yabp.php:1284
+msgid "Click to show thumbnail above the product information"
+msgstr "Klik om afbeelding boven de productinformatie te tonen"
+
+#: yabp.php:1284
+msgid "Show thumbnail next to content"
+msgstr "Toon afbeelding naast inhoud"
+
+#: yabp.php:1284
+msgid "Show thumbnail above content"
+msgstr "Toon afbeelding boven inhoud"
+
+#: yabp.php:1285
+msgid "Click to hide the 'Free shipping' text"
+msgstr "Klik om de 'Gratis verzending'-tekst te verbergen"
+
+#: yabp.php:1285
+msgid "Hide 'Free shipping' text"
+msgstr "Verberg 'Gratis verzending'-tekst"
+
+#: yabp.php:1285
+msgid "Click to show the 'Free shipping' text (when applicable)"
+msgstr "Klik om de 'Gratis verzending'-tekst te tonen (wanneer van toepassing)"
+
+#: yabp.php:1285
+msgid "Show 'Free shipping' text"
+msgstr "Toon 'Gratis verzending'-tekst"
+
+#: yabp.php:1292 yabp.php:1450
+msgid "No products found."
+msgstr "Geen producten gevonden."
+
+#: yabp.php:1355 yabp.php:1370 yabp.php:1380
+msgid "Invalid product"
+msgstr "Ongeldig product"
+
+#: yabp.php:1402
+msgid "Expired products"
+msgstr "Verlopen producten"
+
+#: yabp.php:1402
+msgid ""
+"Expired products are products that are not available anymore. On this page, "
+"you can replace them easily."
+msgstr ""
+"Verlopen producten zijn producten die niet meer beschikbaar zijn. Op deze "
+"pagina kunt u deze eenvoudig vervangen."
+
+#: yabp.php:1402
+msgid "Email notification"
+msgstr "E-mail notificatie"
+
+#: yabp.php:1402
+msgid "ON"
+msgstr "AAN"
+
+#: yabp.php:1402
+msgid "OFF"
+msgstr "UIT"
+
+#: yabp.php:1402
+msgid "edit"
+msgstr "wijzig"
+
+#: yabp.php:1498
+msgid "Set up your shortcodes easily"
+msgstr "Gemakkelijk uw shortcodes naar wens instellen"
+
+#: yabp.php:1500
+msgid ""
+"The product ID has been set up automatically. You can now set up your "
+"shortcode to your needs."
+msgstr ""
+"Het product ID en producttype is automatisch toegevoegd. U kunt nu uw "
+"shortcode naar wens instellen."
+
+#: yabp.php:1500
+msgid ""
+"Please paste your product ID in the first field below. Then you can set up "
+"your shortcode to your needs."
+msgstr ""
+"Vul je product ID in in het eerste veld hieronder. Daarna kun je je "
+"stortcode naar wens aanpassen."
+
+#: yabp.php:1502
+msgid "Product ID"
+msgstr "Product ID"
+
+#: yabp.php:1502
+#, php-format
+msgid "product ID is 'x' in your shortcode: %1$s"
+msgstr "product ID is 'x' in uw shortcode: %1$s"
+
+#: yabp.php:1503
+msgid "SubId"
+msgstr "SubId"
+
+#: yabp.php:1504
+msgid "Image width"
+msgstr "Afbeeldingsbreedte"
+
+#: yabp.php:1504 yabp.php:1505 yabp.php:1506
+msgid "default"
+msgstr "standaard"
+
+#: yabp.php:1505
+msgid "Image column width"
+msgstr "Afbeeldingskolombreedte"
+
+#: yabp.php:1506
+msgid "Info column width"
+msgstr "Infokolomsbreedte"
+
+#: yabp.php:1507
+msgid ""
+"Note: the image and info columns show the product image and information. "
+"These columns are positioned next to eachother if this has been set up at "
+"the products or deals list. When you set up the image width, you just adjust "
+"its width within its own column. Using the two fields above, you can "
+"override the default widths of the image and info columns. Both column "
+"widths together should be 100% at all times."
+msgstr ""
+"Noot: de afbeelding en info kolommen tonen de productafbeelding en -"
+"informatie. Deze kolommen worden naast elkaar gepositioneerd wanneer dit bij "
+"in product- of aanbiedinglijst is ingesteld. Wanneer u de afbeeldingsbreedte "
+"instelt, geldt dit voor de breedte in het eigen kolom. Met behulp van "
+"bovenstaande twee velden kunt u de standaard breedtes van de afbeelding en "
+"informatie forceren. Beide kolombreedtes samen dienen ten alle tijden 100% "
+"te zijn."
+
+#: yabp.php:1510
+msgid "Generate"
+msgstr "Genereer"
+
+#: yabp.php:1515
+msgid "Please provide a valid product ID."
+msgstr "Vul aub een geldig product ID in."
+
+#: yabp.php:1525
+msgid "Generated shortcode"
+msgstr "Gegenereerde shortcode"
+
+#: yabp.php:1595
+msgid "Possibly not available"
+msgstr "Mogelijk niet beschikbaar"
+
+#: yabp.php:1617
+msgid "Click to view this product at bol.com"
+msgstr "Klik om dit product op bol.com te bekijken"
+
+#: yabp.php:1617
+msgid "Click to buy this product at bol.com"
+msgstr "Klik om dit product bij bol.com te kopen"
